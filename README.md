@@ -31,4 +31,7 @@ O objetivo é praticar habilidades de front-end, recriando o layout moderno da p
 
 ---
 
-**Desenvolvido por Amon Carlos Ribeiro dos Santos **
+## 📩 Contato
+
+Feito com 💻 por **Amon Carlos Ribeiro dos Santos**  
+[LinkedIn](www.linkedin.com/in/amon-carlos-ribeiro-dos-santos-8676732a1) | [GitHub](https://github.com/AmonCarlos001)
